@@ -1,6 +1,6 @@
 ## Disclaimer (for Problem 10 of https://arxiv.org/pdf/2602.05192)
 
-The solution and verify workflow for this problem in this repository were completed using GPT Pro and Codex (gpt-5.3-codex). Workflow used: GPT Pro and Codex were prompted with the problem statement and repository constraints, then iteratively generated, edited, and checked the Lean code until compilation and automated checks passed.No human mathematical guidance was provided, and the maintainer is not a professional mathematician. At present, we can only guarantee that Lean compilation passes and that AI-based semantic checks pass. There are no known issues at this time, but it cannot be guaranteed to be completely error-free.
+The solution and verify workflow for this problem in this repository were completed using GPT Pro and Codex (gpt-5.3-codex). Workflow used: GPT Pro and Codex were prompted with the problem statement and repository constraints, then iteratively generated, edited, and checked the Lean code until compilation and automated checks passed. No human mathematical guidance was provided, and the maintainer is not a professional mathematician. At present, we can only guarantee that Lean compilation passes and that AI-based semantic checks pass. There are no known issues at this time, but it cannot be guaranteed to be completely error-free.
 
 # AutoProof Q10: Mathematical Overview and Audit Route
 
